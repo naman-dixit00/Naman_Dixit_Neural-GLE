@@ -22,7 +22,7 @@ Extending data-driven Markovian Stochastic Langevin Regression (SLR) to non-equi
 
 ## Repository Structure
 
-* `Neural_GLE_Proposal.pdf` — Complete mathematical formulation, theoretical guarantees, and phased validation roadmap authored by Naman Dixit.
+* `Naman_Dixit_Neural_GLE.pdf` — Complete mathematical formulation, theoretical guarantees, and phased validation roadmap authored by Naman Dixit.
 * `benchmarks/` *(Uploading in v1.1)* — Reproducible Python implementations comparing Euler-Maruyama vs. Milstein integration in small-$L$ intermittent regimes and $\mathcal{O}(N)$ auxiliary-state Prony scaling.
 * `LICENSE` — Strict All-Rights-Reserved proprietary research license.
 
@@ -37,9 +37,9 @@ If you wish to reference the theoretical formulation or proposal archived in thi
   author       = {Dixit, Naman},
   title        = {Neural Generalized Langevin Equation (Neural GLE): Extending Stochastic Langevin Regression to Non-Markovian Viscoelastic Membranes and Intermittent Regimes},
   year         = {2026},
-  publisher    = {Zenodo / GitHub},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://github.com}
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24472917},
+  url          = {https://doi.org}
 }
 ```
 
